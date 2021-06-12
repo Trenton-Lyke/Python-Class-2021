@@ -35,8 +35,9 @@ print("I want to let the world know I'm here")
     because Python only cares about the text enclosed
     by the quotation marks ("). The quotation marks are 
     only there to help Python distinguish between text-based 
-    code and text-based data. You can also replace the 
-    quotation marks (") with apostrophes (') if you like.
+    code and text-based data which is known as a string. You 
+    can also replace the quotation marks (") with a
+    postrophes (') if you like.
 """
 
 # 2. Uncomment the line of code with the print() function 
@@ -63,7 +64,7 @@ print("I want to let the world know I'm here")
     also known as the backslash (\). By placing a backslash in
     front of an apostrophe or a quotation mark we tell Python
     to treat the apostrophe as part of the text rather than the 
-    indicator of the end of the text.
+    indicator of the end of the string.
 """
 #3. Uncomment the line of code with the print() function 
 #   below. Try running the code now.
