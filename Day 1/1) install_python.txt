@@ -1,6 +1,0 @@
-Python Installation Videos
-    Windows Installation:
-    https://youtu.be/uDbDIhR76H4?t=19
-
-    Mac Installation:
-    https://youtu.be/ephKzjTp6ZE    
